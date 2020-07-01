@@ -22,6 +22,7 @@ namespace CS321_W4D2_ExerciseLogAPI.ApiModels
                 UserId = activity.UserId,
                 User = activity.User.Name,
                 Notes = activity.Notes
+                //
             };
         }
 
